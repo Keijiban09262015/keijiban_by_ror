@@ -10,14 +10,6 @@
 1. データの登録は、ビューからの送信すること
 2. 取得したデータはビューで表示すること
 
-## フレームワーク
-### MVCモデル  
-![](http://assemblog.com/wp-content/uploads/2012/08/image_mvc.png)
-
-### Ruby On Rails  
-![](http://image.slidesharecdn.com/ch05-150607033659-lva1-app6892/95/rails-5-13-638.jpg?cb=1442671084)
-
-
 ## 参考
 - [前回 - keijiban](https://github.com/Keijiban09262015/keijiban)
 - [Rubyコーディング規約](http://shugo.net/ruby-codeconv/codeconv.html)
